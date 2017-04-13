@@ -5,6 +5,9 @@
 
 A star wars themed application for users' to strengthen their coding skills.  Teacher's are given the ability to create problems for their students.  The students' can then test their knowledge by engaging in different problem sets ranked by skill.  Each problem set is solved by the user entering their code in a sandbox which is then matched with the answer using regular expression.  Problem sets may be attempted more than once.  Each set ends with a percentage grade and the ability to earn a doughtut upon 100% completion.
 
+Source: http://github.com/wrightmk/drillz
+
+
 ### Tech
 
 - Ruby on Rails - Server-side web application framework written in Ruby under the MIT License.
