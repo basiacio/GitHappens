@@ -3,7 +3,7 @@
 
 #### GitHappens is a Ruby on Rails C.R.U.D. application.
 
-A star wars themed application for users' to strengthen their coding skills.  Teacher's are given the ability to create problems for their students.  The students' can then test their knowledge by engaging in different problem sets ranked by skill.  Each problem set is solved by the user entering their code in a sandbox which is then matched with the answer using regular expression.  Problem sets may be attempted more than once.  Each set ends with a percentage grade and the ability to earn a doughtut upon 100% completion.
+A Star Wars themed application for users to strengthen their coding skills.  Teachers are given the ability to create problems for their students. Students can then test their knowledge by engaging in various problem sets ranked by skill.  Each problem set is solved when a user enters their code in the corresponding sandbox, which is then matched against the answer using regular expression.  Users may attempt problem sets more than once.  Each set displays a percentage (overall progress) and the ability to earn a donut upon 100% completion.
 
 heroku: https://githappens.herokuapp.com
 
